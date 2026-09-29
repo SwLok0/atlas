@@ -1,0 +1,82 @@
+﻿日期,活動類型,repository,標題／簡述,狀態,相關 URL,備註
+2026-03-12,pull request,SwLok0/atlas,#1 Import/bond weighted forecast,已合併,https://github.com/SwLok0/atlas/pull/1,PR 建立者 SwLok0；合併 2026-03-12
+2026-03-12,review,SwLok0/atlas,Copilot review of PR #1,已提交,https://github.com/SwLok0/atlas/pull/1#pullrequestreview-3936829421,GitHub 原生 Copilot reviewer
+2026-03-27,pull request,SwLok0/atlas,"#17 Refactor GFF notebook into modular, independently-runnable experiment scripts",已合併,https://github.com/SwLok0/atlas/pull/17,PR 建立者為 Copilot；納入可驗證 agent 活動
+2026-03-27,pull request,SwLok0/atlas,#18 Copilot/refactor ipynb for model repo,已合併,https://github.com/SwLok0/atlas/pull/18,PR 建立者 SwLok0；合併 2026-03-27
+2026-03-27,review,SwLok0/atlas,Copilot review of PR #17,已提交,https://github.com/SwLok0/atlas/pull/17#pullrequestreview-4023178302,GitHub 原生 Copilot reviewer
+2026-03-27,review,SwLok0/atlas,Copilot review of PR #18,已提交,https://github.com/SwLok0/atlas/pull/18#pullrequestreview-4023417049,GitHub 原生 Copilot reviewer
+2026-05-21,commit,SwLok0/atlas,Update BACKGROUND.md,已提交,https://github.com/SwLok0/atlas/commit/70412b8e07e74ba579e3f1bb7e9400e8cac54ea2,本人 commit
+2026-05-26,commit,SwLok0/atlas,Update SOURCE.md,已提交,https://github.com/SwLok0/atlas/commit/08a28a85b9f424264b27788663e5d199e95b1f9f,本人 commit
+2026-05-26,commit,SwLok0/atlas,Update SOURCE.md,已提交,https://github.com/SwLok0/atlas/commit/378c551c275dc5af7d782f2f49051d410cb2d739,本人 commit
+2026-05-26,commit,SwLok0/atlas,Update SOURCE.md,已提交,https://github.com/SwLok0/atlas/commit/4d6c4ab6dd10f62cb921b47c5e701d0ee4424bf9,本人 commit
+2026-06-05,Copilot agent commit,SwLok0/atlas,"fix: address code review feedback - public compute_ece, named constants, robust dry-run assertion",已提交,https://github.com/SwLok0/atlas/commit/36e651ed6a9de30cba20c7152dd7645a9626b9fd,GitHub 原生提交者資料可驗證；無法僅由 GitHub API 證明由本人觸發
+2026-06-05,Copilot agent commit,SwLok0/atlas,fix: address code review issues in L2 implementation,已提交,https://github.com/SwLok0/atlas/commit/f28e910e6e83db12b4e41141b94056b92df39e03,GitHub 原生提交者資料可驗證；無法僅由 GitHub API 證明由本人觸發
+2026-06-05,Copilot agent commit,SwLok0/atlas,feat: implement Agent B - L1 cross-domain leave-one-out validation,已提交,https://github.com/SwLok0/atlas/commit/f29823e3482dca892dc41ac7cdf458d13b7a33e7,GitHub 原生提交者資料可驗證；無法僅由 GitHub API 證明由本人觸發
+2026-06-05,Copilot agent commit,SwLok0/atlas,feat(L2): implement cross-asset bond vs A-share Granger analysis (Agent C),已提交,https://github.com/SwLok0/atlas/commit/f91157239df7f7de4269489796498718efd5005e,GitHub 原生提交者資料可驗證；無法僅由 GitHub API 證明由本人觸發
+2026-06-05,commit,SwLok0/atlas,Create PLAN_B.md for L1 validation framework,已提交,https://github.com/SwLok0/atlas/commit/136dbbec9f1f5695b359b0569700df7dccd00cc2,本人 commit
+2026-06-05,commit,SwLok0/atlas,Clean up PLAN_AGENT_C.md by removing line breaks,已提交,https://github.com/SwLok0/atlas/commit/1f3516a93cae5cbde36556e77b2824e6dfe8eb9b,本人 commit
+2026-06-05,commit,SwLok0/atlas,Rename PLAN_B.md to PLAN_AGENT_B.md,已提交,https://github.com/SwLok0/atlas/commit/90d6be519ce146757713d9050675fe8d8c66a65d,本人 commit
+2026-06-06,commit,SwLok0/atlas,Merge pull request #27 from swlokzk/copilot/update-research-plan-agent-b,已提交,https://github.com/SwLok0/atlas/commit/6986b745a434241122e9fa3366a6f672af89a141,本人 commit
+2026-06-06,commit,SwLok0/atlas,Merge pull request #28 from swlokzk/copilot/cnogb-abnormal-intervention,已提交,https://github.com/SwLok0/atlas/commit/8624923589945902f027fe42824717d33c79eb8f,本人 commit
+2026-06-06,commit,SwLok0/atlas,Merge branch 'main' into copilot/update-research-plan-agent-b,已提交,https://github.com/SwLok0/atlas/commit/e268e2ccf23cef19631f192ca0e912a0d193432c,本人 commit
+2026-06-06,pull request,SwLok0/atlas,#27 Agent B — L1 leave-one-out cross-domain validation,已合併,https://github.com/SwLok0/atlas/pull/27,PR 建立者為 Copilot；納入可驗證 agent 活動
+2026-06-06,pull request,SwLok0/atlas,#28 Cross-asset Granger causality analysis,已合併,https://github.com/SwLok0/atlas/pull/28,PR 建立者為 Copilot；納入可驗證 agent 活動
+2026-06-06,review,SwLok0/atlas,Copilot review of PR #27,已提交,https://github.com/SwLok0/atlas/pull/27#pullrequestreview-4441928092,GitHub 原生 Copilot reviewer
+2026-06-25,Copilot agent commit,SwLok0/atlas,Create .github/scripts/requirements.txt with PyYAML dependency,已提交,https://github.com/SwLok0/atlas/commit/f65c81a575685d1951cb49c5fee67873408ddbeb,GitHub 原生提交者資料可驗證；無法僅由 GitHub API 證明由本人觸發
+2026-06-25,commit,SwLok0/atlas,Update README.md,已提交,https://github.com/SwLok0/atlas/commit/269677eb1867a91bdb9461a01c21feaaaaa5c17b,本人 commit
+2026-06-25,commit,SwLok0/atlas,Create deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/2ce3f07f13eaa334d5e2647d83048ce33d4c194e,本人 commit
+2026-06-25,commit,SwLok0/atlas,Update README.md,已提交,https://github.com/SwLok0/atlas/commit/3a6b573d4200d073391c704584c948453dfc8097,本人 commit
+2026-06-25,commit,SwLok0/atlas,Add test-for-cloudflare.md with initial content,已提交,https://github.com/SwLok0/atlas/commit/5e88d0be9ceaee45728ceba6e667240d138331d4,本人 commit
+2026-06-25,commit,SwLok0/atlas,Refactor GitHub Actions workflow for r3f-portfolio deployment,已提交,https://github.com/SwLok0/atlas/commit/9cf5691915907c4594bd185964b9a12727641c68,本人 commit
+2026-06-25,commit,SwLok0/atlas,Update README.md,已提交,https://github.com/SwLok0/atlas/commit/a46e21b10fa3e1147c7c68d93540c9ba3ffa6b8b,本人 commit
+2026-06-25,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/ad9395029bc213536ca67e36ebffd6439f4157bd,本人 commit
+2026-06-25,commit,SwLok0/atlas,Update test-for-cloudflare.md with new test push content,已提交,https://github.com/SwLok0/atlas/commit/c181c483426a10cb94d6394948a68642ef8752fd,本人 commit
+2026-06-25,commit,SwLok0/atlas,Merge pull request #29 from swlokzk/copilot/fix-generate-readme-failure,已提交,https://github.com/SwLok0/atlas/commit/cd9fce7099ae82dd675cd4dff0850fb4faa821d8,本人 commit
+2026-06-25,pull request,SwLok0/atlas,#29 Add missing requirements.txt for generate-readme workflow,已合併,https://github.com/SwLok0/atlas/pull/29,PR 建立者為 Copilot；納入可驗證 agent 活動
+2026-06-25,review,SwLok0/atlas,Copilot review of PR #29,已提交,https://github.com/SwLok0/atlas/pull/29#pullrequestreview-4568205398,GitHub 原生 Copilot reviewer
+2026-06-26,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/0178531c78cd475b2d46d47017df5cacf90c8757,本人 commit
+2026-06-26,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/38902b3b2a0b035dbddb3b2b8515d2ebb6498931,本人 commit
+2026-06-26,commit,SwLok0/atlas,Change deployment method to Wrangler CLI,已提交,https://github.com/SwLok0/atlas/commit/981295f8e1a9b3114dbf262d8c32ff2b249e4de2,本人 commit
+2026-06-26,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/9f33c33ee397b2292daa997b2c1733e5893d3609,本人 commit
+2026-06-26,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/b4e4224c3707f33903ab45041f528730ffbf17df,本人 commit
+2026-06-26,commit,SwLok0/atlas,Refactor deploy workflow for r3f portfolio,已提交,https://github.com/SwLok0/atlas/commit/dc4f69b97abb748f31555196bea775c172744500,本人 commit
+2026-06-26,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/f8d2872c27562f514dd5f8df5511a41a3634f501,本人 commit
+2026-06-28,commit,SwLok0/atlas,chore: remove allowBuilds setting for sharp from pnpm workspace configuration,已提交,https://github.com/SwLok0/atlas/commit/0e4a0dc76e8e87197c4e1c6214121bfb0630f8d1,本人 commit
+2026-06-28,commit,SwLok0/atlas,chore: add pnpm workspace configuration file with sharp build option,已提交,https://github.com/SwLok0/atlas/commit/384cc62cd51153997716ce7321b13d4ba9f6b0fd,本人 commit
+2026-06-28,commit,SwLok0/atlas,chore: remove pnpm workspace configuration for sharp,已提交,https://github.com/SwLok0/atlas/commit/a9d584ae65b744ebb966f8090188dd263c31f2e8,本人 commit
+2026-06-28,commit,SwLok0/atlas,chore: add pnpm workspace configuration file with allowBuilds setting for sharp,已提交,https://github.com/SwLok0/atlas/commit/b25612db24457a0429ed3f2cc059bd5c3af2cbca,本人 commit
+2026-06-28,commit,SwLok0/atlas,Update deploy-r3f-portfolio.yml,已提交,https://github.com/SwLok0/atlas/commit/b8d7545407abb0a2d8dca1946f03a8ad1f20d875,本人 commit
+2026-06-28,commit,SwLok0/atlas,Delete _development/r3f-portfolio/pnpm-workspace.yaml,已提交,https://github.com/SwLok0/atlas/commit/ced180e159532c0200bac3ac6dbaff13ebf1e834,本人 commit
+2026-06-28,commit,SwLok0/atlas,chore: add Tailwind CSS PostCSS plugin and update workspace configuration,已提交,https://github.com/SwLok0/atlas/commit/e11fb94a0f1e723a735d785bf957f2f096ea4045,本人 commit
+2026-06-28,commit,SwLok0/atlas,Merge branch 'main' of https://github.com/swlokzk/atlas,已提交,https://github.com/SwLok0/atlas/commit/f240fbd07569d2c68af5a7ed7d543aec86ca1356,本人 commit
+2026-06-29,commit,SwLok0/atlas,chore: add react-use-measure dependency to package.json and update pnpm-lock.yaml,已提交,https://github.com/SwLok0/atlas/commit/706ce57d077c6537cc9decbc1c056da21433121d,本人 commit
+2026-06-29,commit,SwLok0/atlas,chore: enhance rollup configuration for better chunking of 3D libraries,已提交,https://github.com/SwLok0/atlas/commit/b128baa9a9319a95b435925b2fb4f9936142d4a4,本人 commit
+2026-06-30,commit,SwLok0/atlas,chore: downgrade react and related types to 18.x for compatibility,已提交,https://github.com/SwLok0/atlas/commit/f2340f8e910322ec78c59259ade4afae30c978f5,本人 commit
+2026-07-01,commit,SwLok0/atlas,Update README.md,已提交,https://github.com/SwLok0/atlas/commit/2d2340f41b7e74cb1df69a55372bf801912b8dc7,本人 commit
+2026-07-06,commit,SwLok0/atlas,ignore binance testnet notebook and update .gitignore,已提交,https://github.com/SwLok0/atlas/commit/9f99bef0e1f52c400b2df71130bef4866c623646,本人 commit
+2026-07-06,commit,SwLok0/atlas,Add initial implementation of anomaly detection models and utilities,已提交,https://github.com/SwLok0/atlas/commit/f47f25e67219bf27554ee27d02187d1de2350acf,本人 commit
+2026-07-07,commit,SwLok0/atlas,Refactor code structure for improved readability and maintainability,已提交,https://github.com/SwLok0/atlas/commit/c45d630c4c6299fecbc1281ac7153882154b6188,本人 commit
+2026-07-12,commit,SwLok0/atlas,chore: remove outdated development notes for governance strategy,已提交,https://github.com/SwLok0/atlas/commit/6e3bf5ea016efed63bf8fcb3e083a0aee553e522,本人 commit
+2026-07-12,commit,SwLok0/atlas,Merge branch 'main' of https://github.com/swlokzk/atlas,已提交,https://github.com/SwLok0/atlas/commit/c713d56a4a0a566e41961fc5be8c8c5855edb725,本人 commit
+2026-07-12,commit,SwLok0/atlas,Delete devnotes directory,已提交,https://github.com/SwLok0/atlas/commit/c9d279827c3354bc5f75ccc30d371f7c7e295b12,本人 commit
+2026-07-12,commit,SwLok0/atlas,feat: add deployment configuration and service files for AMR Gated Fusion Former,已提交,https://github.com/SwLok0/atlas/commit/f62f62f77c77064623148fa912ee24dd08993bb1,本人 commit
+2026-07-12,commit,SwLok0/atlas,feat: Implement Gated Fusion Former deployment pipeline with ONNX support,已提交,https://github.com/SwLok0/atlas/commit/ff6a4794a110e81db8394d71732dd5dc5bdf5ab8,本人 commit
+2026-07-12,pull request,SwLok0/atlas,#30 Add AMR deployment Phase 0 audit and checkpoint gate,開啟,https://github.com/SwLok0/atlas/pull/30,PR 建立者為 Copilot；納入可驗證 agent 活動
+2026-07-19,commit,SwLok0/atlas,refactor: enhance clarity and structure of engineering documentation in README.md,已提交,https://github.com/SwLok0/atlas/commit/46015701f3f061c7bfc03d19bf5e9ff3750ac763,本人 commit
+2026-07-19,commit,SwLok0/atlas,refactor: remove redundant related links section from README.md,已提交,https://github.com/SwLok0/atlas/commit/4a40b4990a920645f9f2ca8b308f28cee33a45e2,本人 commit
+2026-07-19,commit,SwLok0/atlas,Rename DEPLOYMENT.md to DEVELOPMENT.md,已提交,https://github.com/SwLok0/atlas/commit/53e4a1964b15c3b048e983abc4c9850bf7ba1e38,本人 commit
+2026-07-19,commit,SwLok0/atlas,docs: Revise README for clarity and detail on AMR-GFFNN model and deployment,已提交,https://github.com/SwLok0/atlas/commit/727688a72acf3ba8a2d96453b9af2f89525d61a4,本人 commit
+2026-07-19,commit,SwLok0/atlas,Add deployment guide for AMR-GFFNN project,已提交,https://github.com/SwLok0/atlas/commit/763f20c347972d5bbb46195661c9a35734a0a288,本人 commit
+2026-07-19,commit,SwLok0/atlas,feat: enhance deployment runtime selection and validation; add hardware inspection and runtime check scripts,已提交,https://github.com/SwLok0/atlas/commit/85ce8b491e9abc1f4afbf5177c6bf18d39ae26ac,本人 commit
+2026-07-19,commit,SwLok0/atlas,Revise README for clarity and additional information,已提交,https://github.com/SwLok0/atlas/commit/be62fbb8767c99b911d6ef4243092b2f2f2b7813,本人 commit
+2026-07-19,commit,SwLok0/atlas,Merge branch 'main' of https://github.com/swlokzk/atlas,已提交,https://github.com/SwLok0/atlas/commit/cf80726e9f23a902033d618170062eb3b4c5c9ce,本人 commit
+2026-07-19,commit,SwLok0/atlas,Update README.v4.md,已提交,https://github.com/SwLok0/atlas/commit/d11973bb6ac9f09b542bbc1d93159e0ef4e73800,本人 commit
+2026-07-19,commit,SwLok0/atlas,Update README.md,已提交,https://github.com/SwLok0/atlas/commit/d2585de9f826112a8ee0128a52eed84c66de58b2,本人 commit
+2026-07-19,commit,SwLok0/atlas,"fix: update section title from ""Limitations"" to ""Limitations and Additional Notes"" in README.md",已提交,https://github.com/SwLok0/atlas/commit/e1486e37c5a9c3142389b81fdfe13cc771257f58,本人 commit
+2026-07-19,commit,SwLok0/atlas,Refactor README for clarity and conciseness,已提交,https://github.com/SwLok0/atlas/commit/e29021487a31843de712338fe9363e227715d60e,本人 commit
+2026-07-19,commit,SwLok0/atlas,"feat: add comprehensive documentation for AMR-GFFNN project, including project overview, research workflow, canonical model, preprocessing contract, CPU ONNX deployment, runtime backends, FastAPI service, validation matrix, and artifact governance",已提交,https://github.com/SwLok0/atlas/commit/e3638f275120b83814e56a079b2f7653ac222b1c,本人 commit
+2026-07-19,commit,SwLok0/atlas,fix: update artifact directory references from gff-v3 to gff-ver in documentation,已提交,https://github.com/SwLok0/atlas/commit/ec69e9750d61dc8c17df7f12d1ec780686ad625f,本人 commit
+2026-07-19,commit,SwLok0/atlas,Update README.md,已提交,https://github.com/SwLok0/atlas/commit/f8926ab0fd72fe965bc1d962b9288624b91bac6b,本人 commit
+2026-08-14,Dependabot system commit,SwLok0/atlas,chore(deps): bump torch in /_development/amr-gff-nn/deploy,已提交,https://github.com/SwLok0/atlas/commit/87a76b8f6e2626d63e1117414342405da3989e05,GitHub 原生提交者資料可驗證；無法僅由 GitHub API 證明由本人觸發
+2026-08-14,commit,SwLok0/atlas,Merge pull request #31 from swlok0/dependabot/pip/_development/amr-gff-nn/deploy/torch-2.13.0,已提交,https://github.com/SwLok0/atlas/commit/16447865b6183c82cc8d3a2b51962c85ce7d7169,本人 commit
+2026-08-14,pull request,SwLok0/atlas,#31 Dependabot torch update,已合併,https://github.com/SwLok0/atlas/pull/31,透過本人 merge commit 驗證；PR 本身由 Dependabot 建立
